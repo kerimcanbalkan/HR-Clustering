@@ -84,6 +84,7 @@ ax.yaxis.label.set_fontsize(20)
 
 ax.legend()
 plt.show()
+plt.savefig("hr_dpgmm.png")
 
 # Apply KMeans clustering
 kmeans = KMeans(n_clusters=num_clusters, random_state=42)
@@ -110,3 +111,4 @@ ax.yaxis.label.set_fontsize(20)
 
 ax.legend()
 plt.show()
+plt.savefig("hr_kmeans.png")
