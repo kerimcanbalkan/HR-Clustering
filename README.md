@@ -104,13 +104,11 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="img/hr_dpgmm.png" alt="Original Data" style="width: 50%;">
-<img src="img/hr_kmeans.png" alt="Predicted Data" style="width: 50%;">
+<img src="img/hr_dpgmm.png" alt="Original Data" style="width: 49%;">
+<img src="img/hr_kmeans.png" alt="Predicted Data" style="width: 49%;">
 
 </div>
 
 <h2>Usage</h2>
 
 <p>To run the project, ensure you have the required dependencies installed. Execute the Python script, and visualizations will be generated.</p>
-
-<h2>License</h2>
